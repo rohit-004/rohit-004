@@ -6,12 +6,12 @@ JAVA FULL STACK DEVELOPER
 
 I am an engineering graduate. I enjoy coding. I build frontend websites with React and have proficiency in backend development in Java
 
-* 🌍  I'm based in New Delhi ,India.
+* 🌍  I'm based in New Delhi,India.
 * 🖥️  See my portfolio at [Rohit-Portfolio](http://rohit-react-portfolio.vercel.app/)
 * ✉️  You can contact me at [rohitkandari1977@gmail.com](mailto:rohitkandari1977@gmail.com)
 * 🧠  I'm learning MERN Stack.
 * 🤝  I'm open to collaborating on Frontend React Projects and Backend Java Projects.
-* ⚡  Open to Football discussions (LOVE Bayern and red part of London).
+* ⚡  Open to Football discussions (LOVE Bayern and the red part of London).
 
 ### Skills
 
@@ -32,8 +32,6 @@ I am an engineering graduate. I enjoy coding. I build frontend websites with Rea
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-004&show_icons=true&theme=gruvbox)
 
 <a href="http://www.github.com/rohit-004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohit-004&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/rohit-004)
 
 
 <a href="https://github.com/rohit-004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
