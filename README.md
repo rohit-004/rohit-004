@@ -9,7 +9,7 @@ I am an engineering graduate. I enjoy coding. I build frontend websites with Rea
 * 🌍  I'm based in New Delhi,India.
 * 🖥️  See my portfolio at [Rohit-Portfolio](http://rohit-react-portfolio.vercel.app/)
 * ✉️  You can contact me at [rohitkandari1977@gmail.com](mailto:rohitkandari1977@gmail.com)
-* 🧠  I'm learning MERN Stack.
+* 🧠  I'm learning Java Full Stack & DevOps.
 * 🤝  I'm open to collaborating on Frontend React Projects and Backend Java Projects.
 * ⚡  Open to Football discussions (LOVE Bayern and the red part of London).
 
